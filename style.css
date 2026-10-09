@@ -1,3 +1,26 @@
-p {
-    color: red;
+.header-text {
+    font-display: auto;
+    font-family: 'Josefin Sans';
+    font-size: x-large;
+    color: white;
+}
+
+.header-background {
+    background: fixed;
+    background-color: black;
+    width: auto;
+    height: 256px;
+}
+
+.navigation-game-frame {
+    background: fixed;
+    background-color: white;
+    width: auto;
+    height: 256px;
+}
+.contact-frame{
+    background: fixed;
+    background-color: black;
+    width: auto;
+    height: 384px; 
 }
